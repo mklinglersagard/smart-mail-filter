@@ -1,0 +1,6 @@
+functions-framework
+google-cloud-pubsub
+google-cloud-firestore
+google-cloud-aiplatform
+google-api-python-client
+google-auth
